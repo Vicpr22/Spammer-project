@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+#main-container {
+  display: flex;
+  flex-direction: column;
+}
+.message-container {
+  box-shadow: 1px 5px 15px #00000059;
+  border-radius: 10px;
+  width: 90%;
+  height: 150px;
+  margin: 10px auto;
+  padding: 20px;
+}
