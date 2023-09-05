@@ -1,0 +1,1 @@
+*{box-sizing:border-box}.message-container button{border:none;height:50px}#main-container{display:flex;flex-direction:column}.message-container{box-shadow:1px 5px 15px #00000059;border-radius:10px;width:98%;height:150px;margin:10px auto;padding:20px}#edit-button{margin-left:5px}#lower-buttons{margin-top:10px;display:flex;gap:5px}
